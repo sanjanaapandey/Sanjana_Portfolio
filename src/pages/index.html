@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    {{> head title="HTML Tailwind V4 Personal Portfolio" }}
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+
+  </head>
+  <body class="prose prose-gray max-w-none">
+    {{> header }}
+    <main>
+      <!-- prettier-ignore -->
+      {{> section-hero }} 
+      {{> section-about }} 
+      {{> section-skills }}   <!-- ✅ Skills section now included -->
+      {{> section-work }}
+    </main>
+    
+    {{> footer }}
+    <script type="module" src='{{resolve-from-root "../js/main.js"}}'></script>
+
+    <!-- ✅ AOS animation scripts (required for the scroll-in effect) -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>

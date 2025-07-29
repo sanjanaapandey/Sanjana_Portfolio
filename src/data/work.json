@@ -1,0 +1,77 @@
+[
+  {
+    "image": "/images/ble-app-banner.webp",
+    "title": "BLE-based Android App",
+    "description": "An Android application developed using Bluetooth Low Energy (BLE) for real-time device communication. It features efficient data transfer, responsive UI, and secure pairing mechanisms. Built as part of an engineering internship to streamline internal device operations.",
+    "website": "https://github.com/sanjanapandey/ble-app",
+    "resume": "/Sanjana_Pandey_Resume.pdf",
+    "meta": [
+      {
+        "name": "category",
+        "value": "Android Development"
+      },
+      {
+        "name": "client",
+        "value": "Eastman Power Technologies"
+      },
+      {
+        "name": "techStackUsed",
+        "value": "React Native, BLE"
+      },
+      {
+        "name": "timeline",
+        "value": "July 2025"
+      }
+    ]
+  },
+  {
+    "image": "/images/diabetes-gan-banner.webp",
+    "title": "Diabetes Prediction using GANs",
+    "description": "A machine learning project using Generative Adversarial Networks to generate synthetic diabetic patient data. Improved classification accuracy by 40% using advanced ensemble models and GNNs, and published a research paper highlighting performance gains.",
+    "website": "https://github.com/sanjanapandey/DiabetesPrediction-Project-using-GANs",
+    "resume": "/Sanjana_Pandey_Resume.pdf",
+    "meta": [
+      {
+        "name": "category",
+        "value": "Machine Learning"
+      },
+      {
+        "name": "client",
+        "value": "Academic Research"
+      },
+      {
+        "name": "techStackUsed",
+        "value": "PyTorch, GANs, GNN"
+      },
+      {
+        "name": "timeline",
+        "value": "April 2025"
+      }
+    ]
+  },
+  {
+    "image": "/images/airroute-banner.webp",
+    "title": "Optimal Air Route Planner",
+    "description": "A pathfinding system that recommends the most fuel-efficient air travel paths using Dijkstra’s and Bellman-Ford algorithms. Achieved a 40% reduction in route computation latency while collaborating in a team-focused academic setting.",
+    "website": "https://github.com/sanjanapandey/Optimal-Air-route-planner",
+    "resume": "/Sanjana_Pandey_Resume.pdf",
+    "meta": [
+      {
+        "name": "category",
+        "value": "Algorithmic Design"
+      },
+      {
+        "name": "client",
+        "value": "Personal Project"
+      },
+      {
+        "name": "techStackUsed",
+        "value": "C++, Dijkstra, Bellman-Ford"
+      },
+      {
+        "name": "timeline",
+        "value": "November 2024"
+      }
+    ]
+  }
+]

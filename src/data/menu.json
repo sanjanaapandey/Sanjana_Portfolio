@@ -1,0 +1,14 @@
+[
+  {
+    "label": "About Me",
+    "url": "#about"
+  },
+  {
+    "label": "My Work",
+    "url": "#work"
+  },
+  {
+    "label": "Contact Me",
+    "url": "#contact"
+  }
+]
